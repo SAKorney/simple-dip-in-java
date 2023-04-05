@@ -2,6 +2,9 @@ package edu.home.dip;
 
 import java.io.IOException;
 import java.util.Map;
+
+import edu.home.dip.imageio.ImageIOSolution;
+
 import java.util.HashMap;
 import java.util.Arrays;
 
